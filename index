@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link
+    href="https://cdn.jsdelivr.net/npm/remixicon@4.1.0/fonts/remixicon.css"
+    rel="stylesheet"/>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="main">
+        <div id="left">
+            <div id="leftcenter">
+                <h2>1. Doge's Palace</h2>
+                <hr>
+                <h2>2. Canal Grande</h2>
+                <hr>
+                <h2>3. Basilica di San Marco</h2>
+                <hr>
+                <h2>4. Piazza San Marco</h2>
+                <hr>
+                <h2>5. Teatro La Fenice
+                    <hr>
+                </h2>
+            </div>
+        </div>
+        <div id="right">
+            <div id="searchbar">
+                <div id="content">
+                    <div id="h3">
+                        <h3>Venice</h3>
+                    </div>
+                    <div id="h1">
+                        <h1 >Italy</h1></div>
+                    <div id="searchicon">
+                        <i class="ri-search-line"></i>
+                    <div id="line">
+                        <hr>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="navtop">
+            <div id="navtopleft">
+                <h1>TOURS</h1>
+            </div>
+            <div id="navtopright">
+                <div id="destinations"><h1>Destination</h1></div>
+                <div id="bookings"><h1>Bookings</h1></div>
+                <div id="Gallery"><h1>Gallery</h1></div>
+                <div id="findatour"><h1>Find a Tour</h1></div>
+            </div>
+        </div>
+        <div id="navbottom">
+            <div id="navbottomleft"><h2>Scroll Down</h2></div>
+            <div id="navbottomright"><h2>Next Destination</h2></div>
+        </div>
+    </div>
+</body>
+</html>
