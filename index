@@ -12,51 +12,29 @@
 <body>
     <div id="main">
         <div id="left">
-            <div id="leftcenter">
-                <h2>1. Doge's Palace</h2>
-                <hr>
-                <h2>2. Canal Grande</h2>
-                <hr>
-                <h2>3. Basilica di San Marco</h2>
-                <hr>
-                <h2>4. Piazza San Marco</h2>
-                <hr>
-                <h2>5. Teatro La Fenice
-                    <hr>
-                </h2>
+            <div id="leftnavtop">
+                <h1>TOURS AND TRAVELS</h1>
+                <i class="ri-menu-line"></i>
             </div>
+            <div id="leftnavcenter">
+                <h2>1. Times Square</h2>
+                <h2>2. Central Park</h2>
+                <h2>3. Statue of Liberty and Ellis Island</h2>
+                <h2>4. The Metropolitan Museum of Art</h2>
+                <h2>5. The High Line</h2>
+            </div>
+            <div id="scroll"></div>
         </div>
         <div id="right">
-            <div id="searchbar">
-                <div id="content">
-                    <div id="h3">
-                        <h3>Venice</h3>
-                    </div>
-                    <div id="h1">
-                        <h1 >Italy</h1></div>
-                    <div id="searchicon">
-                        <i class="ri-search-line"></i>
-                    <div id="line">
-                        <hr>
-                    </div>
-                    </div>
+            <div id="rightnavtop"></div>
+            <div id="rightnavsearch">
+                <h1>New York</h1>
+                <div id="input">
+                    <i class="ri-search-line"></i> 
+                    <input type="text" placeholder="Find a Tour">
                 </div>
             </div>
-        </div>
-        <div id="navtop">
-            <div id="navtopleft">
-                <h1>TOURS</h1>
-            </div>
-            <div id="navtopright">
-                <div id="destinations"><h1>Destination</h1></div>
-                <div id="bookings"><h1>Bookings</h1></div>
-                <div id="Gallery"><h1>Gallery</h1></div>
-                <div id="findatour"><h1>Find a Tour</h1></div>
-            </div>
-        </div>
-        <div id="navbottom">
-            <div id="navbottomleft"><h2>Scroll Down</h2></div>
-            <div id="navbottomright"><h2>Next Destination</h2></div>
+            <small>&copy; 2024</small>
         </div>
     </div>
 </body>
